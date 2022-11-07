@@ -7,6 +7,7 @@ Estou em busca do meu primeiro trabalho como desenvolvedor
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiotek&show_icons=true&theme=midnight-purple)
+______________________________________________________________________________________________________________________
 
 Skills:
 ______________________________________________________________________________________________________________________
