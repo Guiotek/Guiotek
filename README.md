@@ -6,7 +6,7 @@ Aprendendo Desenvolvimento Web Full Stack com a Trybe
 <br>
 <br>
 Estou em busca do meu primeiro trabalho como desenvolvedor 
-
+________________________________________________________________________________________________________________________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guiotek&show_icons=true&theme=midnight-purple)
 ______________________________________________________________________________________________________________________
