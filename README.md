@@ -15,7 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiotek&show_icons=true&locale=en&layout=compact" alt="guiotek" /></p>
 <br>
-
+<p></p>
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guiotek&show_icons=true&locale=en" alt="guiotek" /></p>
