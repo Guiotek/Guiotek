@@ -1,7 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Fagundes</h1>
-<h3 align="center">Estou aprendendo Desenvolvimento Web Full Stack com a Trybe.</h3>
-
-<p align="center"> 🌱 Atualmente estou aprendendo <strong>Back-end</strong> </p>
 
 ## <h3 align="left">Conecte-se:</h3>
 <p align="left">
