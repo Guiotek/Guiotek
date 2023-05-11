@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Fagundes</h1>
 
-## <h3 align="left">Conecte-se:</h3>
+<h3 align="left">Conecte-se:</h3>
 <p align="left">
   
 <a href="https://www.linkedin.com/in/guilherme-guiotek/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/guilherme-guiotek/" height="40" width="155" /></a>
